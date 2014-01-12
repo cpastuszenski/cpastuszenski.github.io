@@ -1,7 +1,7 @@
 body {
 	font-family: helvetica, arial, sans-serif;
 	margin: 0px;
-	color: #756E6E;
+	color: #171717;
 	background-color: #F8F8FF;
 }
 
@@ -40,6 +40,6 @@ body {
 	text-align: left;
 }
 
-a:link {text-decoration: none; color: #35D3DB;}
-a:visited {text-decoration: none; color: #35D3DB;}
+a:link {text-decoration: none; color: #0041D9;}
+a:visited {text-decoration: none; color: #0041D9;}
 a:hover {text-decoration: none; color: #DB3D35;}
